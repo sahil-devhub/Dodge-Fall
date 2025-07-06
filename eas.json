@@ -3,6 +3,14 @@
     "version": ">= 7.6.0"
   },
   "build": {
+    "production": {
+      "android": {
+        "image": "latest"
+      },
+      "ios": {
+        "image": "latest"
+    }
+    {
     "development": {
       "developmentClient": true,
       "distribution": "internal"
