@@ -1,0 +1,15 @@
+**/*
+!app/**
+!assets/**
+!components/**
+!hooks/**
+!scripts/**
+!types/**
+!utils/**
+!eas.json
+!app.json
+!package.json
+!tsconfig.json
+!package-lock.json
+!.expo/**
+!.expo-shared/**
